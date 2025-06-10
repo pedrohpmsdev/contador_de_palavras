@@ -1,0 +1,1 @@
+Digite qualquer frase aqui, ele será o arquivo lido pelo contador.
